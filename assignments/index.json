@@ -1,0 +1,188 @@
+{
+  "schema_version": "text-enrichment-allocation-index-v2",
+  "study_version": "2026-09-04-r2-v1",
+  "assignment_version": "n30-round2-three-versions-v1",
+  "allocation_sha256": "94c87ed30cd754d8b9fe3a071a82dfbd7a253a6daa6f8caad2fa9b49678c67b6",
+  "participant_slots": [
+    {
+      "participant_slot": 1,
+      "allocation_id": "n30-round2-three-versions-v1-slot-01",
+      "file": "slots/slot-01.json",
+      "allocation_sha256": "844243246e50d3f8db3cd7c764e67d65fa4a9b2726d28459cb02f9a84e1a7444"
+    },
+    {
+      "participant_slot": 2,
+      "allocation_id": "n30-round2-three-versions-v1-slot-02",
+      "file": "slots/slot-02.json",
+      "allocation_sha256": "44f21ba78b573efb7f495c83c566677eec89d029dab68aec15675304eefe3a0e"
+    },
+    {
+      "participant_slot": 3,
+      "allocation_id": "n30-round2-three-versions-v1-slot-03",
+      "file": "slots/slot-03.json",
+      "allocation_sha256": "7b6a6413849fc8e1fbffc43221b4f5400d748680de793cbba9f5cb9f8ad6b082"
+    },
+    {
+      "participant_slot": 4,
+      "allocation_id": "n30-round2-three-versions-v1-slot-04",
+      "file": "slots/slot-04.json",
+      "allocation_sha256": "bb4a6a6d66f083cd5395a04c9c03ae031de3dc533cddecf4c0538b0e72c32eec"
+    },
+    {
+      "participant_slot": 5,
+      "allocation_id": "n30-round2-three-versions-v1-slot-05",
+      "file": "slots/slot-05.json",
+      "allocation_sha256": "1fd49f280ce02490ffe89f78986f6659f0c442493ece812c87be05d1b5ed95cc"
+    },
+    {
+      "participant_slot": 6,
+      "allocation_id": "n30-round2-three-versions-v1-slot-06",
+      "file": "slots/slot-06.json",
+      "allocation_sha256": "57a40dc7c7ad5f689ffb26cc260c38d5a00efafce334a23e4ed40740bcb22531"
+    },
+    {
+      "participant_slot": 7,
+      "allocation_id": "n30-round2-three-versions-v1-slot-07",
+      "file": "slots/slot-07.json",
+      "allocation_sha256": "8e9e58caef60191bbc80707bb6c64e442519c320794e910929f3672085525a9e"
+    },
+    {
+      "participant_slot": 8,
+      "allocation_id": "n30-round2-three-versions-v1-slot-08",
+      "file": "slots/slot-08.json",
+      "allocation_sha256": "93610d4720eaa4a109ac63be7d719bdab6cf297533f8041b4ca21d85a81d9069"
+    },
+    {
+      "participant_slot": 9,
+      "allocation_id": "n30-round2-three-versions-v1-slot-09",
+      "file": "slots/slot-09.json",
+      "allocation_sha256": "2055c2efcf5fb4e200196d0a52bc4bb3dd86c78cc9b3890c357498d0da83ae36"
+    },
+    {
+      "participant_slot": 10,
+      "allocation_id": "n30-round2-three-versions-v1-slot-10",
+      "file": "slots/slot-10.json",
+      "allocation_sha256": "322fe0b4aa35c4defce9988a26a84ab8d38b5c614095eba4e7b928419b5dd137"
+    },
+    {
+      "participant_slot": 11,
+      "allocation_id": "n30-round2-three-versions-v1-slot-11",
+      "file": "slots/slot-11.json",
+      "allocation_sha256": "ef080e37115822a118bed416d1cc3e258569c5c1ec07dcf113f8145e502fff10"
+    },
+    {
+      "participant_slot": 12,
+      "allocation_id": "n30-round2-three-versions-v1-slot-12",
+      "file": "slots/slot-12.json",
+      "allocation_sha256": "afefa728a1c69a5736aec89a9317d1d313ff56762f17118eb36c2cc3920c4f04"
+    },
+    {
+      "participant_slot": 13,
+      "allocation_id": "n30-round2-three-versions-v1-slot-13",
+      "file": "slots/slot-13.json",
+      "allocation_sha256": "fd5ef724d6a6c4179d474a0291ed3faa5980823d142b33fdcddb76b20eb43e92"
+    },
+    {
+      "participant_slot": 14,
+      "allocation_id": "n30-round2-three-versions-v1-slot-14",
+      "file": "slots/slot-14.json",
+      "allocation_sha256": "257f50742d127607faa8499f9173a6dad3f24145f209d72faf4ef1fbc58626e2"
+    },
+    {
+      "participant_slot": 15,
+      "allocation_id": "n30-round2-three-versions-v1-slot-15",
+      "file": "slots/slot-15.json",
+      "allocation_sha256": "d66480e44f6791c22c7e0fdbb7dc792bfb2fbc82c3ae0dd59de5c341f9ec78b0"
+    },
+    {
+      "participant_slot": 16,
+      "allocation_id": "n30-round2-three-versions-v1-slot-16",
+      "file": "slots/slot-16.json",
+      "allocation_sha256": "1ed6f88f7c05b456e3ed947df6adf23739f31bb8563735ef0f8e2ae3d93d7317"
+    },
+    {
+      "participant_slot": 17,
+      "allocation_id": "n30-round2-three-versions-v1-slot-17",
+      "file": "slots/slot-17.json",
+      "allocation_sha256": "da71a31d918a6bd1f635f6e4c5540c69af9076e56bd05574f50e0c396dbdc0de"
+    },
+    {
+      "participant_slot": 18,
+      "allocation_id": "n30-round2-three-versions-v1-slot-18",
+      "file": "slots/slot-18.json",
+      "allocation_sha256": "d574aabbd4362282f963ba2da8d1dd2b29f8035ce9226ea723ae9381842e74ea"
+    },
+    {
+      "participant_slot": 19,
+      "allocation_id": "n30-round2-three-versions-v1-slot-19",
+      "file": "slots/slot-19.json",
+      "allocation_sha256": "5836b8d01e9874fb85826dfb85a9e3ce3256ed6833fac52767ced6809c47aa31"
+    },
+    {
+      "participant_slot": 20,
+      "allocation_id": "n30-round2-three-versions-v1-slot-20",
+      "file": "slots/slot-20.json",
+      "allocation_sha256": "c4fb280cbc5ac80456cb25177324786e135291e3cedf64c91c9fd5304bac074e"
+    },
+    {
+      "participant_slot": 21,
+      "allocation_id": "n30-round2-three-versions-v1-slot-21",
+      "file": "slots/slot-21.json",
+      "allocation_sha256": "e98bb32b211ca0a152cc64559e5fabc83bfefc9f65b056f7c3fa6c0164b227b1"
+    },
+    {
+      "participant_slot": 22,
+      "allocation_id": "n30-round2-three-versions-v1-slot-22",
+      "file": "slots/slot-22.json",
+      "allocation_sha256": "6113b5a84af2ccfe118e1ad7187d026b633a3a36d964c5e4f01cbeb03f94af7a"
+    },
+    {
+      "participant_slot": 23,
+      "allocation_id": "n30-round2-three-versions-v1-slot-23",
+      "file": "slots/slot-23.json",
+      "allocation_sha256": "8b7280dd6aaa2c5abdaa42c99c8dd77034422b476369244bd057f086998bdde4"
+    },
+    {
+      "participant_slot": 24,
+      "allocation_id": "n30-round2-three-versions-v1-slot-24",
+      "file": "slots/slot-24.json",
+      "allocation_sha256": "0e909abb7a783a9af1f1c13fd861f8a5973a732baead4953f3769e96667e2ae1"
+    },
+    {
+      "participant_slot": 25,
+      "allocation_id": "n30-round2-three-versions-v1-slot-25",
+      "file": "slots/slot-25.json",
+      "allocation_sha256": "5c84ec8b46122c77de55dfb4f0e96b142bb4d3aada888af62d63e43381370d54"
+    },
+    {
+      "participant_slot": 26,
+      "allocation_id": "n30-round2-three-versions-v1-slot-26",
+      "file": "slots/slot-26.json",
+      "allocation_sha256": "844478dc820a456577aebba3287266c3b99368b18688d9c1f37821f15e93d535"
+    },
+    {
+      "participant_slot": 27,
+      "allocation_id": "n30-round2-three-versions-v1-slot-27",
+      "file": "slots/slot-27.json",
+      "allocation_sha256": "47af9375be4b11b7038228b477cb3bca16f74911f41cd55eabc1c65fbd349b6a"
+    },
+    {
+      "participant_slot": 28,
+      "allocation_id": "n30-round2-three-versions-v1-slot-28",
+      "file": "slots/slot-28.json",
+      "allocation_sha256": "19110df4d5658a9b0b90393f11352e957b8df52e42244038a80371033a6ab9d5"
+    },
+    {
+      "participant_slot": 29,
+      "allocation_id": "n30-round2-three-versions-v1-slot-29",
+      "file": "slots/slot-29.json",
+      "allocation_sha256": "94bea7ad129c07f47c3e19e1fdc740b8b2e028831c5f4af37ca6e6f4eb6f6468"
+    },
+    {
+      "participant_slot": 30,
+      "allocation_id": "n30-round2-three-versions-v1-slot-30",
+      "file": "slots/slot-30.json",
+      "allocation_sha256": "d62f61f733f1210bc3b02015050c9619afc40d62e7cb783dcfd702c981d959cc"
+    }
+  ]
+}
