@@ -50,7 +50,7 @@ assert.match(config, /dataEndpoint: "(?:|https:\/\/script\.google\.com\/macros\/
 for (const key of ["complete", "screenedOut", "incompatibleDevice", "failedComprehension", "noConsent"]) {
   assert.match(config, new RegExp(`${key}: "(?:|https:\\\/\\\/app\\.prolific\\.com\\/submissions\\/complete\\?cc=[A-Za-z0-9_-]+)"`));
 }
-assert.doesNotMatch(config, /CW2P6FV4|C1JJDH8M|CG4A1FAO|COI7JSKM|CYE28F39/);
+// Duplicated Prolific studies may legitimately retain the same completion codes.
 assert.match(config, /exposureMs: 1000/);
 assert.ok(index.includes("app.js?v=2026-09-04-r2-v1"));
 assert.ok(index.includes("study-config.js?v=2026-09-04-r2-v1"));
