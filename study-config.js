@@ -64,7 +64,7 @@ window.STUDY_CONFIG = Object.freeze({
     allowedPointer: "fine"
   },
   stimulusLanguage: "Korean",
-  dataEndpoint: "",
+  dataEndpoint: "https://script.google.com/macros/s/AKfycbwFWNQP3f2gqoQMggHKU9LzRQWr0jmtYeziVQWj9oSVhqlyzGJUhRUjP6AiFT6isoxV/exec",
   googleSheetUrl: "",
   redirects: {
     complete: "https://app.prolific.com/submissions/complete?cc=CW2P6FV4",

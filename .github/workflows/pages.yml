@@ -25,6 +25,8 @@ jobs:
         uses: actions/checkout@v4
       - name: Verify allocation, flow, logs, and stimuli
         run: npm test
+      - name: Verify live Round 2 collector
+        run: node scripts/verify-live-collector.mjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
         with:

@@ -60,7 +60,7 @@ Researcher preview works without remote writes or Prolific redirects. Live Proli
 
 Eligibility failures use the paid `screenedOut` path. An incompatible device and two failed instruction-check attempts use distinct `Request a return` paths. Declining consent uses the `noConsent` return path. Successful participants reach `complete` only after the server confirms the full 114-trial record.
 
-The Round 1 Apps Script collector URL is deliberately not reused. A duplicated Prolific study may retain the same completion codes; [Prolific documents this as supported](https://researcher-help.prolific.com/en/articles/445135-setting-up-a-study-faqs). Until a new Round 2 Apps Script `/exec` URL and all five completion-path URLs are entered, live entry is blocked by the configuration check while preview mode remains available.
+Round 2 uses its own Apps Script collector and private workbook. A duplicated Prolific study may retain the same completion codes; [Prolific documents this as supported](https://researcher-help.prolific.com/en/articles/445135-setting-up-a-study-faqs). The configured `/exec` endpoint is checked against the Round 2 collector, study, assignment, and schema versions before deployment and again when a participant enters the interface.
 
 The interface screens out anyone who reports Korean as a native or comfortably used language. Keep this exclusion aligned with the approved protocol, preregistration, recruitment copy, and analysis plan.
 
